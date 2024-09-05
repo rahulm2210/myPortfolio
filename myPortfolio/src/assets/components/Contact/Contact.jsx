@@ -26,7 +26,7 @@ const Contact = () => {
     }).then((res) => res.json());
 
     if (res.success) {
-      console.log("Success", res);
+      //console.log("Success", res);
       Swal.fire({
         title: "Success!",
         text: "Message Sent Successfully!",
