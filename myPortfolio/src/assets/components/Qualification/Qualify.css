@@ -1,0 +1,23 @@
+#qualification{
+    padding-bottom: 4rem;
+  }
+  #qualification i{
+    top:5px;
+    left:-32px
+  }
+  
+  #qualification .border-left {
+    border-left: 1px solid #6f6efd !important;
+  }
+  
+  .ml-2, .mx-2 {
+    margin-left: 0.5rem !important;
+  }
+  
+  .pl-4, .px-4 {
+    padding-left: 1.5rem !important;
+  }
+  
+  .pt-2, .py-2 {
+    padding-top: 0.5rem !important;
+  }
